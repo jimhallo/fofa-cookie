@@ -1,7 +1,7 @@
 # fofa-cookie
-基于cookie的爬虫,只获取ip,端口.
+基于cookie的爬虫,只获取ip,端口,写的烂,请求大佬指点.
 
-host搜索用于下面的情况
+1.1host搜索用于下面的情况
 
 
 ![image](https://github.com/jimhallo/fofa-cookie/assets/91548792/4a1b3a12-2042-44ac-be5e-7eaad4ca3f37)
@@ -10,7 +10,7 @@ host搜索用于下面的情况
 
 
 
-web搜索用于下面的情况
+1.2web搜索用于下面的情况
 
 
 
